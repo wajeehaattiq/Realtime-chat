@@ -24,26 +24,22 @@ across sessions using file handling.
 - Maximum 50 users supported
 
 ---
-## 
-========== MAIN MENU ==========
+## Menu Options
 
-- Register User
-- Login
-- Forget Password
-- Display All Users
-- Search User
-- Exit
-## 
+### Main Menu:
+    1. Register User
+    2. Login
+    3. Forget Password
+    4. Display All Users
+    5. Search User
+    6. Exit
+
 ### User Menu (After Login):
-
-========== USER MENU ==========
-
-- Send Message
-- Update User Info
-- Delete Account
-- Delete Message
-- Logout
-
+    1. Send Message
+    2. Update User Info
+    3. Delete Account
+    4. Delete Message
+    5. Logout
 ---
 
 ## Data Structures Used
@@ -142,6 +138,3 @@ g++ chat.cpp -o chat
 Wajeeha Attiq  
 GitHub: github.com/wajeehaattiq  
 Email: wajeehaattiq7@gmail.com  
-## Menu Options
-
-### Main Menu:
